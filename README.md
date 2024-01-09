@@ -28,7 +28,7 @@
             <img src="https://github.com/bsenator/personel-blog/assets/69959722/2a224171-6db1-4b20-b3be-1e9eef2ca2b6)" alt="App" class="me-3">
         </div>
         <div class="col-md-6">
-            <img src="https://github.com/bsenator/random-pictures-gallery/assets/69959722/0f2de102-fdc0-42b4-b752-cf783c1578df" alt="DB">
+            <img src="https://github.com/bsenator/personel-blog/assets/69959722/153f358e-7fd3-40c6-9349-5df902db5ee8" alt="DB">
         </div>
     </div>
 </div>
