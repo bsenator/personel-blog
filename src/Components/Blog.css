@@ -1,0 +1,15 @@
+/* Blog.css */
+.blog {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .blog input {
+    padding: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .blog p {
+    color: #555;
+  }
+  

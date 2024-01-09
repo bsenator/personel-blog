@@ -1,0 +1,19 @@
+/* BlogPost.css */
+.blog-post {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-post h2 {
+    color: #333;
+  }
+  
+  .blog-post p {
+    color: #555;
+  }
+  
+  .blog-post small {
+    color: #888;
+  }
+  
