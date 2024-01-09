@@ -16,7 +16,7 @@
 <div class="mt-3">
         <h2>Kullanılan Diller</h2>
         <ul>
-            <li>React</li>
+            <li>React.js</li>
             <li>CSS</li>    
         </ul>
     </div>
