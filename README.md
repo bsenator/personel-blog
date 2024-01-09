@@ -1,4 +1,4 @@
-![image](https://github.com/bsenator/personel-blog/assets/69959722/208372b0-b62d-4fd1-811b-1d1d67ed56b8)<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
