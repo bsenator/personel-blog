@@ -10,7 +10,7 @@
 <div class="container mt-5">
         <ul>
             <li>Üretken Akademi MEGA Yazılım Hafta5 için yapılmıştır.</li>
-            <li>Basit ir blog sayfası oluşturulmuştur .map .filtreleme özellikleri ön plandadır.</li>
+            <li>Basit bir blog sayfası oluşturulmuştur ".map", ".filtreleme" özellikleri ön plandadır.</li>
        </ul>
 
 <div class="mt-3">
